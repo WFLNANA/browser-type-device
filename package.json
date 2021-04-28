@@ -1,0 +1,30 @@
+{
+  "name": "browser-type-device",
+  "version": "1.0.0",
+  "description": "获取浏览器类别;获取浏览器当前模式（极速、兼容）",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WFLNANA/getBrowserVersion.git"
+  },
+  "keywords": [
+    "browser",
+    "js",
+    "javascript"
+  ],
+  "author": "wfl",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/WFLNANA/getBrowserVersion/issues"
+  },
+  "homepage": "https://github.com/WFLNANA/getBrowserVersion#readme",
+  "__npminstall_done": "Wed Mar 24 2021 11:18:11 GMT+0800 (GMT+08:00)",
+  "_from": "get-browser-version@0.0.1",
+  "_resolved": "https://registry.npm.taobao.org/get-browser-version/download/get-browser-version-0.0.1.tgz?cache=0&sync_timestamp=1616555851115&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fget-browser-version%2Fdownload%2Fget-browser-version-0.0.1.tgz"
+}
